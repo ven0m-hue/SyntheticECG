@@ -1,7 +1,7 @@
 # SyntheticECG
-An algorithm for Generation of ECG Signals using Fourier Series Approximation
+An algorithm for Generation of ECG Signals using Fourier Series Approximation.
 
-This algorithm was presented in a paper titled "Generation of ECG for Heart Block Cases"
+This algorithm was presented in a paper titled "Generation of ECG for Heart Block Cases" in the Springer Journal.
 
 Link to the paper - https://bit.ly/2QPEsuu
 
